@@ -1,5 +1,5 @@
 // © Connor Ahern 2021
-// Licensed under MPL 2.0
+// Licensed under Mozilla Public License 2.0
 
 var SlackImprover = {
   "alreadyInit": false,
